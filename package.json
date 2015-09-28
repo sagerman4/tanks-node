@@ -1,0 +1,19 @@
+{
+  "name": "tanks-node",
+  "version": "1.0.0",
+  "description": "Tanks app written using node and oracle db.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagerman4/tanks-node.git"
+  },
+  "author": "J. Sager Davidson (sager.davidson@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagerman4/tanks-node/issues"
+  },
+  "homepage": "https://github.com/sagerman4/tanks-node#readme"
+}
