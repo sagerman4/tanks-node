@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/sagerman4/tanks-node/issues"
   },
-  "homepage": "https://github.com/sagerman4/tanks-node#readme"
+  "homepage": "https://github.com/sagerman4/tanks-node#readme",
+  "devDependencies": {
+    "hapi": "^10.1.0",
+    "inert": "^3.0.1",
+    "oracledb": "^1.2.0"
+  }
 }
