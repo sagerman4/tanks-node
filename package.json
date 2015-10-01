@@ -4,7 +4,8 @@
   "description": "Tanks app written using node and oracle db.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "jshint **.js",
+    "bootify": "js-beautify **.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,8 @@
   "devDependencies": {
     "hapi": "^10.1.0",
     "inert": "^3.0.1",
-    "oracledb": "^1.2.0"
+    "oracledb": "^1.2.0",
+    "jshint": "latest",
+    "js-beautify": "latest"
   }
 }
